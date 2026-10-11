@@ -11,8 +11,8 @@ A static, mobile-friendly portfolio designed for free hosting on GitHub Pages.
 5. Select branch `main`, folder `/(root)`, then **Save**.
 6. After deployment, use the **Visit site** link in Settings > Pages to confirm the correct URL. GitHub says publishing can take up to 10 minutes.
 
-If your GitHub username is `tywanna-maye`, the expected URL is:
-https://tywanna-maye.github.io/project-management-portfolio/
+Your published portfolio URL is:
+https://tywannamaye-jpg.github.io/project-management-portfolio/
 
 Do not add this URL to job applications until it loads successfully.
 
